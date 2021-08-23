@@ -6,3 +6,6 @@
 - 💬 Ask me about  Vue, Node and Javascript
 
 
+Languages and Tools:
+babel bash chartjs css3 express firebase git heroku html5 javascript  mongodb nodejs postman  react redux sass vuejs 
+
